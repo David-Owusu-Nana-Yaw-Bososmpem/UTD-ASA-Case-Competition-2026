@@ -1,0 +1,140 @@
+student_id,name,class,study,gpa,greek,off_campus,distance_to_campus,gender,sprinklered,coverage,claim_id,amount,risk_tier,training_holdout,has_claim
+219,"al-Tabet, Qais",Freshman,Other,1.510015049,Greek,On campus,0.0,Female,Yes,Personal Property,40,2294.001208,1,training,1
+219,"al-Tabet, Qais",Freshman,Other,1.510015049,Greek,On campus,0.0,Female,Yes,Personal Property,41,505.5703546,1,training,1
+283,"Valdez, Janelle",Grad student,Humanities,2.778393534,Greek,Off campus,7.609871022,Female,No,Additional Living Expense,52,11073.91259,3,holdout,1
+283,"Valdez, Janelle",Grad student,Humanities,2.778393534,Greek,Off campus,7.609871022,Female,No,Additional Living Expense,53,29077.81553,3,holdout,1
+283,"Valdez, Janelle",Grad student,Humanities,2.778393534,Greek,Off campus,7.609871022,Female,No,Personal Property,54,2417.297719,3,holdout,1
+283,"Valdez, Janelle",Grad student,Humanities,2.778393534,Greek,Off campus,7.609871022,Female,No,Personal Property,55,1389.386075,3,holdout,1
+295,"Alkire, Westley",Freshman,Science,1.134704607,Non-greek,On campus,0.0,Male,Yes,Additional Living Expense,56,3433.830402,1,holdout,1
+295,"Alkire, Westley",Freshman,Science,1.134704607,Non-greek,On campus,0.0,Male,Yes,Additional Living Expense,57,2894.705151,1,holdout,1
+368,"Wilson, Calandra",Senior,Other,2.251911475,Greek,On campus,0.0,Female,Yes,Personal Property,66,2658.236064,3,training,1
+368,"Wilson, Calandra",Senior,Other,2.251911475,Greek,On campus,0.0,Female,Yes,Personal Property,67,1626.978526,3,training,1
+405,"Brandon, Jamal",Senior,Other,2.848487944,Greek,On campus,0.0,Male,No,Personal Property,74,1231.671104,3,training,1
+405,"Brandon, Jamal",Senior,Other,2.848487944,Greek,On campus,0.0,Male,No,Personal Property,75,1149.736395,3,training,1
+504,"Burwell, Paige",Freshman,Science,3.350241751,Greek,Off campus,4.97728394,Female,No,Personal Property,99,3641.383314,1,training,1
+504,"Burwell, Paige",Freshman,Science,3.350241751,Greek,Off campus,4.97728394,Female,No,Personal Property,100,912.187954,1,training,1
+969,"Mcgee, Brittany",Sophomore,Other,1.97297029,Greek,Off campus,2.60003376,Female,Yes,Personal Property,190,1435.871967,1,training,1
+969,"Mcgee, Brittany",Sophomore,Other,1.97297029,Greek,Off campus,2.60003376,Female,Yes,Personal Property,191,1370.093493,1,training,1
+986,"Ehlers, Devyn",Freshman,Science,3.17930321,Non-greek,On campus,0.0,Female,Yes,Personal Property,194,698.0249119,1,training,1
+986,"Ehlers, Devyn",Freshman,Science,3.17930321,Non-greek,On campus,0.0,Female,Yes,Personal Property,195,729.9935455,1,training,1
+1059,"Else, Jordan",Senior,Science,0.768604226,Non-greek,Off campus,6.76130647,Male,Yes,Additional Living Expense,210,6926.170548,3,training,1
+1059,"Else, Jordan",Senior,Science,0.768604226,Non-greek,Off campus,6.76130647,Male,Yes,Additional Living Expense,211,2107.178033,3,training,1
+1258,"Ramirez, Stephen",Freshman,Humanities,3.162960324,Greek,Off campus,1.030848869,Male,No,Personal Property,242,1939.477458,1,training,1
+1258,"Ramirez, Stephen",Freshman,Humanities,3.162960324,Greek,Off campus,1.030848869,Male,No,Personal Property,243,1123.473214,1,training,1
+1477,"Omar, Donovan",Freshman,Business,1.74018961,Non-greek,Off campus,0.830722185,Female,No,Personal Property,278,1753.596505,1,training,1
+1477,"Omar, Donovan",Freshman,Business,1.74018961,Non-greek,Off campus,0.830722185,Female,No,Personal Property,279,1162.908473,1,training,1
+1623,"Kaufman, Sean",Freshman,Other,2.63023785,Non-greek,Off campus,4.952579237,Female,Yes,Personal Property,306,177.6985084,1,training,1
+1623,"Kaufman, Sean",Freshman,Other,2.63023785,Non-greek,Off campus,4.952579237,Female,Yes,Personal Property,307,510.7252856,1,training,1
+1682,"Latorra, Michael",Junior,Other,1.990247345,Non-greek,Off campus,2.455283253,Other,Yes,Personal Property,320,878.4350956,2,training,1
+1682,"Latorra, Michael",Junior,Other,1.990247345,Non-greek,Off campus,2.455283253,Other,Yes,Personal Property,321,2243.698078,2,training,1
+1996,"el-Sadri, Shaddaad",Freshman,Other,1.388583739,Non-greek,On campus,0.0,Female,Yes,Personal Property,370,467.823421,1,training,1
+1996,"el-Sadri, Shaddaad",Freshman,Other,1.388583739,Non-greek,On campus,0.0,Female,Yes,Personal Property,371,186.3595191,1,training,1
+2209,"Perez, Alla",Sophomore,Business,3.780660092,Non-greek,On campus,0.0,Female,No,Personal Property,406,893.1803857,1,holdout,1
+2209,"Perez, Alla",Sophomore,Business,3.780660092,Non-greek,On campus,0.0,Female,No,Personal Property,407,1211.084901,1,holdout,1
+2512,"Pamplin, Aysia",Grad student,Humanities,2.28701541,Greek,Off campus,1.221386455,Other,Yes,Additional Living Expense,454,10201.73087,3,training,1
+2512,"Pamplin, Aysia",Grad student,Humanities,2.28701541,Greek,Off campus,1.221386455,Other,Yes,Additional Living Expense,455,10358.16613,3,training,1
+2575,"Choi, Ashleigh",Grad student,Humanities,1.790294976,Non-greek,Off campus,2.450180074,Female,Yes,Additional Living Expense,468,4548.727337,3,holdout,1
+2575,"Choi, Ashleigh",Grad student,Humanities,1.790294976,Non-greek,Off campus,2.450180074,Female,Yes,Additional Living Expense,469,6004.201741,3,holdout,1
+2921,"Posey, Leonard",Junior,Other,3.013639111,Greek,Off campus,1.0236919,Male,Yes,Personal Property,528,1089.797668,2,training,1
+2921,"Posey, Leonard",Junior,Other,3.013639111,Greek,Off campus,1.0236919,Male,Yes,Personal Property,529,2286.973855,2,training,1
+2974,"Parker, Kuan-Hsuen",Grad student,Other,2.033194795,Non-greek,Off campus,0.565608725,Female,Yes,Personal Property,540,826.3505962,3,holdout,1
+2974,"Parker, Kuan-Hsuen",Grad student,Other,2.033194795,Non-greek,Off campus,0.565608725,Female,Yes,Personal Property,541,1476.723487,3,holdout,1
+3309,"Keach, Angel",Junior,Business,0.550442866,Non-greek,On campus,0.0,Female,Yes,Personal Property,614,678.2833476,2,training,1
+3309,"Keach, Angel",Junior,Business,0.550442866,Non-greek,On campus,0.0,Female,Yes,Personal Property,615,570.151561,2,training,1
+3495,"Felix, Calvin",Junior,Business,0.902825767,Greek,On campus,0.0,Did not respond,Yes,Personal Property,641,1076.214501,2,training,1
+3495,"Felix, Calvin",Junior,Business,0.902825767,Greek,On campus,0.0,Did not respond,Yes,Personal Property,642,688.2257249,2,training,1
+3605,"Beach, Alton",Sophomore,Business,0.785671248,Greek,Off campus,1.274173287,Male,No,Additional Living Expense,660,15925.49651,1,holdout,1
+3605,"Beach, Alton",Sophomore,Business,0.785671248,Greek,Off campus,1.274173287,Male,No,Additional Living Expense,661,1878.730962,1,holdout,1
+4075,"Prieto Lopez, Elijah",Sophomore,Other,3.410966961,Non-greek,Off campus,3.690079412,Female,Yes,Personal Property,752,584.4293182,1,training,1
+4075,"Prieto Lopez, Elijah",Sophomore,Other,3.410966961,Non-greek,Off campus,3.690079412,Female,Yes,Personal Property,753,676.4529259,1,training,1
+4123,"Lyon, Louis",Sophomore,Science,3.346108465,Greek,On campus,0.0,Female,No,Personal Property,758,1432.060056,1,training,1
+4123,"Lyon, Louis",Sophomore,Science,3.346108465,Greek,On campus,0.0,Female,No,Personal Property,759,1538.031099,1,training,1
+4256,"el-Hoque, Sahar",Grad student,Business,0.990348127,Non-greek,Off campus,0.954405786,Male,No,Personal Property,785,1654.471319,3,training,1
+4256,"el-Hoque, Sahar",Grad student,Business,0.990348127,Non-greek,Off campus,0.954405786,Male,No,Personal Property,786,2914.729882,3,training,1
+4376,"Cheek, Christopher",Senior,Business,0.581990377,Non-greek,Off campus,1.091462835,Other,Yes,Guest Medical,802,221.1976955,3,training,1
+4376,"Cheek, Christopher",Senior,Business,0.581990377,Non-greek,Off campus,1.091462835,Other,Yes,Guest Medical,803,26497.89897,3,training,1
+4404,"el-Arif, Faheem",Grad student,Business,1.465789862,Non-greek,Off campus,24.8652634,Female,Yes,Personal Property,808,397.9797803,3,training,1
+4404,"el-Arif, Faheem",Grad student,Business,1.465789862,Non-greek,Off campus,24.8652634,Female,Yes,Personal Property,809,1600.554624,3,training,1
+4465,"Jones, Zainab",Freshman,Other,1.196371911,Non-greek,On campus,0.0,Female,No,Personal Property,819,466.0201687,1,holdout,1
+4465,"Jones, Zainab",Freshman,Other,1.196371911,Non-greek,On campus,0.0,Female,No,Personal Property,820,610.3917877,1,holdout,1
+4771,"Gonzales, Sarah",Senior,Other,0.663601007,Non-greek,On campus,0.0,Male,Yes,Personal Property,872,665.6392552,3,holdout,1
+4771,"Gonzales, Sarah",Senior,Other,0.663601007,Non-greek,On campus,0.0,Male,Yes,Personal Property,873,469.1941089,3,holdout,1
+4861,"Lopez, Justis",Junior,Other,3.051865539,Non-greek,Off campus,0.616880879,Female,Yes,Personal Property,888,1169.014518,2,training,1
+4861,"Lopez, Justis",Junior,Other,3.051865539,Non-greek,Off campus,0.616880879,Female,Yes,Personal Property,889,348.0219019,2,training,1
+4995,"Sakamoto, Hyeju",Freshman,Humanities,2.972838691,Greek,On campus,0.0,Male,No,Personal Property,917,1966.651643,1,training,1
+4995,"Sakamoto, Hyeju",Freshman,Humanities,2.972838691,Greek,On campus,0.0,Male,No,Personal Property,918,2190.462376,1,training,1
+5059,"Lao, Anicca",Sophomore,Humanities,2.904088154,Non-greek,Off campus,6.858381495,Other,Yes,Guest Medical,928,8983.497028,1,training,1
+5059,"Lao, Anicca",Sophomore,Humanities,2.904088154,Non-greek,Off campus,6.858381495,Other,Yes,Guest Medical,929,5636.30296,1,training,1
+5373,"el-Jama, Tareef",Junior,Humanities,3.083285191,Greek,On campus,0.0,Female,Yes,Additional Living Expense,989,2956.4361,2,holdout,1
+5373,"el-Jama, Tareef",Junior,Humanities,3.083285191,Greek,On campus,0.0,Female,Yes,Additional Living Expense,990,10598.16767,2,holdout,1
+5443,"Chea, Rosario",Freshman,Humanities,2.559086018,Greek,Off campus,0.01772765,Male,Yes,Personal Property,1000,523.3822374,1,training,1
+5443,"Chea, Rosario",Freshman,Humanities,2.559086018,Greek,Off campus,0.01772765,Male,Yes,Personal Property,1001,445.0257639,1,training,1
+5443,"Chea, Rosario",Freshman,Humanities,2.559086018,Greek,Off campus,0.01772765,Male,Yes,Personal Property,1002,284.9200762,1,training,1
+5799,"Davis, Nathon",Junior,Business,3.234783697,Non-greek,On campus,0.0,Female,Yes,Personal Property,1067,523.2568385,2,training,1
+5799,"Davis, Nathon",Junior,Business,3.234783697,Non-greek,On campus,0.0,Female,Yes,Personal Property,1068,1164.099169,2,training,1
+5902,"O Neal, Serena",Junior,Business,0.434484983,Non-greek,On campus,0.0,Female,Yes,Personal Property,1091,315.656495,2,training,1
+5902,"O Neal, Serena",Junior,Business,0.434484983,Non-greek,On campus,0.0,Female,Yes,Personal Property,1092,764.6937639,2,training,1
+6115,"Rodriguez, Angel",Sophomore,Other,1.653916714,Non-greek,Off campus,3.546916153,Female,No,Personal Property,1136,488.2906762,1,training,1
+6115,"Rodriguez, Angel",Sophomore,Other,1.653916714,Non-greek,Off campus,3.546916153,Female,No,Personal Property,1137,1130.119548,1,training,1
+6229,"Ramirez-Lopez, Alejandro",Junior,Other,2.089393404,Non-greek,On campus,0.0,Female,No,Personal Property,1154,565.7602848,2,training,1
+6229,"Ramirez-Lopez, Alejandro",Junior,Other,2.089393404,Non-greek,On campus,0.0,Female,No,Personal Property,1155,583.5531744,2,training,1
+6229,"Ramirez-Lopez, Alejandro",Junior,Other,2.089393404,Non-greek,On campus,0.0,Female,No,Personal Property,1156,1054.829021,2,training,1
+6427,"Eang, Han",Senior,Other,3.676865526,Non-greek,Off campus,0.930232409,Male,No,Personal Property,1186,548.2009455,3,training,1
+6427,"Eang, Han",Senior,Other,3.676865526,Non-greek,Off campus,0.930232409,Male,No,Personal Property,1187,843.6031545,3,training,1
+6491,"Escalante, Alejandra",Junior,Business,1.538971224,Non-greek,Off campus,1.346175477,Male,No,Personal Property,1202,1337.479158,2,training,1
+6491,"Escalante, Alejandra",Junior,Business,1.538971224,Non-greek,Off campus,1.346175477,Male,No,Personal Property,1203,1844.35826,2,training,1
+6927,"el-Saleh, Ghuzaila",Sophomore,Humanities,1.416825101,Greek,On campus,0.0,Female,Yes,Personal Property,1280,649.7907446,1,training,1
+6927,"el-Saleh, Ghuzaila",Sophomore,Humanities,1.416825101,Greek,On campus,0.0,Female,Yes,Personal Property,1281,361.2974298,1,training,1
+6959,"Howard, Danielle",Grad student,Other,2.722537869,Greek,Off campus,5.826695449,Female,Yes,Personal Property,1286,4867.985349,3,training,1
+6959,"Howard, Danielle",Grad student,Other,2.722537869,Greek,Off campus,5.826695449,Female,Yes,Personal Property,1287,2706.262172,3,training,1
+7106,"el-Hashemi, Safwaan",Freshman,Humanities,2.44525749,Greek,On campus,0.0,Male,No,Personal Property,1311,2717.032288,1,training,1
+7106,"el-Hashemi, Safwaan",Freshman,Humanities,2.44525749,Greek,On campus,0.0,Male,No,Personal Property,1312,1514.215424,1,training,1
+7154,"James, Demetreus",Freshman,Other,1.747001269,Greek,On campus,0.0,Female,No,Personal Property,1322,1547.524993,1,training,1
+7154,"James, Demetreus",Freshman,Other,1.747001269,Greek,On campus,0.0,Female,No,Personal Property,1323,3003.962547,1,training,1
+7154,"James, Demetreus",Freshman,Other,1.747001269,Greek,On campus,0.0,Female,No,Personal Property,1324,870.0021461,1,training,1
+7156,"Cone, Jacob",Sophomore,Other,3.209911402,Non-greek,Off campus,6.908467099,Male,Yes,Additional Living Expense,1325,799.7089685,1,training,1
+7156,"Cone, Jacob",Sophomore,Other,3.209911402,Non-greek,Off campus,6.908467099,Male,Yes,Additional Living Expense,1326,3598.625223,1,training,1
+7552,"Sky, Dyllan",Junior,Science,0.965311532,Greek,On campus,0.0,Female,Yes,Personal Property,1384,1271.139036,2,training,1
+7552,"Sky, Dyllan",Junior,Science,0.965311532,Greek,On campus,0.0,Female,Yes,Personal Property,1385,311.0810725,2,training,1
+7590,"Serrano, Evelyn",Sophomore,Business,1.537880867,Greek,Off campus,5.314909577,Female,No,Personal Property,1393,1353.418799,1,training,1
+7590,"Serrano, Evelyn",Sophomore,Business,1.537880867,Greek,Off campus,5.314909577,Female,No,Personal Property,1394,3429.632774,1,training,1
+7690,"Lara, Corey",Grad student,Science,3.307932206,Non-greek,Off campus,23.58993906,Male,Yes,Guest Medical,1412,6888.128712,3,training,1
+7690,"Lara, Corey",Grad student,Science,3.307932206,Non-greek,Off campus,23.58993906,Male,Yes,Guest Medical,1413,21964.51297,3,training,1
+7757,"Giang, Andrew",Senior,Business,2.720856222,Non-greek,Off campus,7.872586563,Male,Yes,Personal Property,1428,641.6145171,3,training,1
+7757,"Giang, Andrew",Senior,Business,2.720856222,Non-greek,Off campus,7.872586563,Male,Yes,Personal Property,1429,280.153765,3,training,1
+8016,"Donohoe, Emma",Sophomore,Humanities,1.114643916,Non-greek,Off campus,1.496644231,Male,Yes,Personal Property,1472,412.0215709,1,training,1
+8016,"Donohoe, Emma",Sophomore,Humanities,1.114643916,Non-greek,Off campus,1.496644231,Male,Yes,Personal Property,1473,407.160132,1,training,1
+8150,"Grindle, Kaya",Sophomore,Science,0.973849838,Greek,Off campus,2.496919997,Other,Yes,Additional Living Expense,1495,14292.28553,1,training,1
+8150,"Grindle, Kaya",Sophomore,Science,0.973849838,Greek,Off campus,2.496919997,Other,Yes,Additional Living Expense,1496,9272.120445,1,training,1
+8371,"Landin, Greg",Senior,Science,1.987683949,Greek,On campus,0.0,Male,Yes,Personal Property,1529,1074.484744,3,holdout,1
+8371,"Landin, Greg",Senior,Science,1.987683949,Greek,On campus,0.0,Male,Yes,Personal Property,1530,183.7148806,3,holdout,1
+8416,"Wigington, Tamera",Sophomore,Business,3.269171469,Greek,Off campus,5.330944285,Female,No,Personal Property,1540,2721.2771,1,training,1
+8416,"Wigington, Tamera",Sophomore,Business,3.269171469,Greek,Off campus,5.330944285,Female,No,Personal Property,1541,5161.813608,1,training,1
+8477,"Magana, Anthony",Senior,Humanities,0.675428518,Greek,Off campus,1.003904914,Male,No,Additional Living Expense,1554,11429.34921,3,training,1
+8477,"Magana, Anthony",Senior,Humanities,0.675428518,Greek,Off campus,1.003904914,Male,No,Additional Living Expense,1555,5865.657389,3,training,1
+8533,"Rodearmel, Kari",Sophomore,Humanities,0.484884662,Greek,On campus,0.0,Female,Yes,Guest Medical,1565,72168.87228,1,training,1
+8533,"Rodearmel, Kari",Sophomore,Humanities,0.484884662,Greek,On campus,0.0,Female,Yes,Guest Medical,1566,18840.01974,1,training,1
+8856,"Le, Kanishka",Freshman,Science,2.329311415,Non-greek,Off campus,12.95220375,Other,Yes,Personal Property,1616,347.4261149,1,training,1
+8856,"Le, Kanishka",Freshman,Science,2.329311415,Non-greek,Off campus,12.95220375,Other,Yes,Personal Property,1617,969.7830922,1,training,1
+8863,"Mulder, Mitchell",Senior,Science,3.725861076,Non-greek,Off campus,3.48864441,Did not respond,No,Additional Living Expense,1619,13208.43376,3,training,1
+8863,"Mulder, Mitchell",Senior,Science,3.725861076,Non-greek,Off campus,3.48864441,Did not respond,No,Additional Living Expense,1620,8005.292162,3,training,1
+8879,"Flowers, Damon",Senior,Other,1.362292065,Non-greek,Off campus,1.238829128,Male,Yes,Personal Property,1623,799.175373,3,holdout,1
+8879,"Flowers, Damon",Senior,Other,1.362292065,Non-greek,Off campus,1.238829128,Male,Yes,Personal Property,1624,1389.616106,3,holdout,1
+9197,"Martin, Briana",Freshman,Science,2.218120962,Greek,Off campus,2.000339039,Male,Yes,Additional Living Expense,1682,8959.432185,1,training,1
+9197,"Martin, Briana",Freshman,Science,2.218120962,Greek,Off campus,2.000339039,Male,Yes,Additional Living Expense,1683,3182.97147,1,training,1
+9375,"Howell, Xavier",Senior,Business,3.229005482,Non-greek,On campus,0.0,Female,Yes,Personal Property,1710,181.010582,3,training,1
+9375,"Howell, Xavier",Senior,Business,3.229005482,Non-greek,On campus,0.0,Female,Yes,Personal Property,1711,319.1678005,3,training,1
+9447,"Fisher, Sylvie",Freshman,Other,1.882992901,Greek,Off campus,2.885355018,Female,Yes,Personal Property,1721,1206.875946,1,training,1
+9447,"Fisher, Sylvie",Freshman,Other,1.882992901,Greek,Off campus,2.885355018,Female,Yes,Personal Property,1722,1726.936673,1,training,1
+9618,"Redfern, Kylina",Freshman,Business,1.764265344,Non-greek,On campus,0.0,Female,No,Additional Living Expense,1752,2554.538423,1,training,1
+9618,"Redfern, Kylina",Freshman,Business,1.764265344,Non-greek,On campus,0.0,Female,No,Additional Living Expense,1753,1067.090846,1,training,1
+9649,"Phan, Suthdara",Senior,Humanities,2.294058721,Greek,Off campus,0.253174625,Female,Yes,Additional Living Expense,1761,3700.932753,3,training,1
+9649,"Phan, Suthdara",Senior,Humanities,2.294058721,Greek,Off campus,0.253174625,Female,Yes,Additional Living Expense,1762,11071.1888,3,training,1
+9831,"Knaus, Bryan",Freshman,Business,2.151894603,Greek,Off campus,7.342484964,Female,Yes,Personal Property,1789,674.5992338,1,training,1
+9831,"Knaus, Bryan",Freshman,Business,2.151894603,Greek,Off campus,7.342484964,Female,Yes,Personal Property,1790,4343.69676,1,training,1
+9922,"Atkinson, Zachary",Junior,Humanities,2.884698425,Greek,Off campus,3.353200722,Female,Yes,Additional Living Expense,1807,10868.6069,2,training,1
+9922,"Atkinson, Zachary",Junior,Humanities,2.884698425,Greek,Off campus,3.353200722,Female,Yes,Additional Living Expense,1808,28630.57248,2,training,1
+9963,"Martinez, Hiro",Junior,Humanities,1.436802779,Non-greek,Off campus,7.93091458,Male,No,Personal Property,1812,1067.921427,2,training,1
+9963,"Martinez, Hiro",Junior,Humanities,1.436802779,Non-greek,Off campus,7.93091458,Male,No,Personal Property,1813,1575.05789,2,training,1
+9988,"Corral, Gregorio",Freshman,Science,1.428422455,Greek,On campus,0.0,Male,Yes,Additional Living Expense,1816,4994.989128,1,training,1
+9988,"Corral, Gregorio",Freshman,Science,1.428422455,Greek,On campus,0.0,Male,Yes,Additional Living Expense,1817,4040.891836,1,training,1

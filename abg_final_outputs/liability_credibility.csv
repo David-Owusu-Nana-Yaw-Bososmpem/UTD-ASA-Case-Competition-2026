@@ -1,0 +1,2 @@
+coverage,development_exposures,development_claims,severity_claims,development_frequency,development_mean_severity,severity_cv,frequency_credibility_Z,severity_credibility_Z,frequency_full_credibility_claims,severity_full_credibility_claims,confidence,relative_error
+Liability,7999,67,67,0.008376047005875735,8150.8760383298495,0.9890365365849788,0.41762771338848415,0.42225711380744446,384.14588206941244,375.76891680741903,0.95,0.1

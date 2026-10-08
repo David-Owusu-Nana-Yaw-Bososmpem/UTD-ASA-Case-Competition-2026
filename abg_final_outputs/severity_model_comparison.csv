@@ -1,0 +1,13 @@
+Coverage,Model,Pooled_Fallback,Development_Positive_Claims,Metric_Type,MAE,RMSE,R2,Actual_Mean,Predicted_Mean
+Additional Living Expense,Gamma_GLM,False,416,Internal validation (25% group split of development claims),2720.5497259141875,4229.140241992252,0.47025114611700225,5911.726209202884,5322.885691443697
+Additional Living Expense,Random_Forest,False,416,Internal validation (25% group split of development claims),2937.833039959127,4630.928700003353,0.36481235696347114,5911.726209202884,5491.805046271011
+Additional Living Expense,Gradient_Boosting,False,416,Internal validation (25% group split of development claims),2718.9118860557364,4363.245817889141,0.43612191776329345,5911.726209202884,5268.602657769495
+Guest Medical,Gamma_GLM,False,183,Internal validation (25% group split of development claims),11927.77018731151,18712.068689164047,0.3453571623000289,19223.659746217392,17044.964542398775
+Guest Medical,Random_Forest,False,183,Internal validation (25% group split of development claims),13370.217918483575,21524.133058423788,0.13381202377134993,19223.659746217392,17425.910801029804
+Guest Medical,Gradient_Boosting,False,183,Internal validation (25% group split of development claims),13308.817933572283,21783.976932396792,0.11277217915230608,19223.659746217392,16949.52144281062
+Liability,Gamma_GLM,False,67,Internal validation (25% group split of development claims),8907.15983768971,13171.761226841425,-0.26600164180430563,13210.280321682352,7308.671887262851
+Liability,Random_Forest,False,67,Internal validation (25% group split of development claims),8558.995365548253,13265.39760514256,-0.2840653104444968,13210.280321682352,6652.395201000746
+Liability,Gradient_Boosting,False,67,Internal validation (25% group split of development claims),8486.603512006204,13409.734500816718,-0.3121604057410077,13210.280321682352,6249.70338137299
+Personal Property,Gamma_GLM,False,743,Internal validation (25% group split of development claims),539.7097797587202,814.3757131583083,0.36122657915480416,1097.5864722451076,1061.0814570075336
+Personal Property,Random_Forest,False,743,Internal validation (25% group split of development claims),554.7061837731778,837.3774402394567,0.3246331759455844,1097.5864722451076,1082.2208235026721
+Personal Property,Gradient_Boosting,False,743,Internal validation (25% group split of development claims),566.2976268799476,879.8239849382977,0.2544293479693511,1097.5864722451076,975.7651842804206

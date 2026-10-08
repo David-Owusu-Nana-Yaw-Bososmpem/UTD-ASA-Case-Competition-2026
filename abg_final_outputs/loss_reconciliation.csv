@@ -1,0 +1,8 @@
+Metric,Value
+Raw dataset rows,40071.0
+Raw positive claim rows,1819.0
+Aggregated student-coverage exposures,40000.0
+Positive claim exposures after aggregation,1748.0
+Raw total loss,8514740.025596071
+Aggregated total loss,8514740.025596071
+Loss difference,0.0

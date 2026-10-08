@@ -1,0 +1,354 @@
+student_id,coverage,amount,predicted_severity,model,evaluated_for_coverage
+72,Additional Living Expense,8909.200967,8850.142198913678,Gamma_GLM,Additional Living Expense
+125,Additional Living Expense,3989.416814,3751.865461526805,Gamma_GLM,Additional Living Expense
+212,Additional Living Expense,3716.324903,7355.549760984866,Gamma_GLM,Additional Living Expense
+368,Additional Living Expense,3223.812942,6149.633674488425,Gamma_GLM,Additional Living Expense
+437,Additional Living Expense,11657.38901,7286.487541499955,Gamma_GLM,Additional Living Expense
+450,Additional Living Expense,4407.11562,5632.902226151289,Gamma_GLM,Additional Living Expense
+458,Additional Living Expense,2821.971863,2359.4938706559915,Gamma_GLM,Additional Living Expense
+467,Additional Living Expense,3986.846536,6824.391690414917,Gamma_GLM,Additional Living Expense
+497,Additional Living Expense,4145.669529,5211.6587439324985,Gamma_GLM,Additional Living Expense
+557,Additional Living Expense,2602.427018,2296.9430751348486,Gamma_GLM,Additional Living Expense
+570,Additional Living Expense,1065.248662,3643.9976356391403,Gamma_GLM,Additional Living Expense
+582,Additional Living Expense,6631.277638,9056.0263716188,Gamma_GLM,Additional Living Expense
+642,Additional Living Expense,2892.176425,3020.9833558984697,Gamma_GLM,Additional Living Expense
+650,Additional Living Expense,6644.587377,4794.444021126553,Gamma_GLM,Additional Living Expense
+666,Additional Living Expense,1452.280699,5606.2444289208925,Gamma_GLM,Additional Living Expense
+865,Additional Living Expense,8270.477975,9034.027909072414,Gamma_GLM,Additional Living Expense
+969,Additional Living Expense,10381.38992,6781.893718268916,Gamma_GLM,Additional Living Expense
+1059,Additional Living Expense,9033.348581,5404.27159070828,Gamma_GLM,Additional Living Expense
+1065,Additional Living Expense,531.0978257,2848.2137969742826,Gamma_GLM,Additional Living Expense
+1426,Additional Living Expense,8684.595019,5680.949186470417,Gamma_GLM,Additional Living Expense
+1447,Additional Living Expense,2903.159067,3150.0776127550384,Gamma_GLM,Additional Living Expense
+1469,Additional Living Expense,3562.436159,2905.0581500000017,Gamma_GLM,Additional Living Expense
+1513,Additional Living Expense,2793.780779,5254.105965379398,Gamma_GLM,Additional Living Expense
+1567,Additional Living Expense,9867.917454,6755.919708946915,Gamma_GLM,Additional Living Expense
+1756,Additional Living Expense,2371.686115,3908.3318969772254,Gamma_GLM,Additional Living Expense
+1785,Additional Living Expense,15778.01681,7146.250884273686,Gamma_GLM,Additional Living Expense
+1787,Additional Living Expense,7289.311579,3735.549434735249,Gamma_GLM,Additional Living Expense
+1903,Additional Living Expense,4495.72473,3759.5193383948363,Gamma_GLM,Additional Living Expense
+1906,Additional Living Expense,4526.504528,3418.9629830509352,Gamma_GLM,Additional Living Expense
+1916,Additional Living Expense,15923.61279,12119.036398297718,Gamma_GLM,Additional Living Expense
+1937,Additional Living Expense,4293.618762,3401.1448309382163,Gamma_GLM,Additional Living Expense
+2015,Additional Living Expense,1985.314061,3630.720610384764,Gamma_GLM,Additional Living Expense
+2138,Additional Living Expense,2745.794158,3757.434540958641,Gamma_GLM,Additional Living Expense
+2332,Additional Living Expense,4536.318901,3937.7930460117645,Gamma_GLM,Additional Living Expense
+2445,Additional Living Expense,1772.50732,4726.667771440284,Gamma_GLM,Additional Living Expense
+2508,Additional Living Expense,699.3236431,3148.0541160750627,Gamma_GLM,Additional Living Expense
+2678,Additional Living Expense,4651.461825,3642.466768588813,Gamma_GLM,Additional Living Expense
+2769,Additional Living Expense,884.171042,2388.347230526723,Gamma_GLM,Additional Living Expense
+2807,Additional Living Expense,18228.02093,10432.085198862515,Gamma_GLM,Additional Living Expense
+2930,Additional Living Expense,1643.291329,2797.6049501965676,Gamma_GLM,Additional Living Expense
+3052,Additional Living Expense,3403.933047,4124.728225543415,Gamma_GLM,Additional Living Expense
+3113,Additional Living Expense,3890.191146,9339.50165026773,Gamma_GLM,Additional Living Expense
+3371,Additional Living Expense,1728.469921,3218.3847598245598,Gamma_GLM,Additional Living Expense
+3376,Additional Living Expense,36503.68028,16683.054047588474,Gamma_GLM,Additional Living Expense
+3591,Additional Living Expense,7752.427135,10364.962369755802,Gamma_GLM,Additional Living Expense
+3680,Additional Living Expense,4799.147279,3671.7373625026235,Gamma_GLM,Additional Living Expense
+3760,Additional Living Expense,4001.090676,3885.0235905002246,Gamma_GLM,Additional Living Expense
+3877,Additional Living Expense,1278.785114,2331.635932048277,Gamma_GLM,Additional Living Expense
+3985,Additional Living Expense,3423.612235,4444.418099772634,Gamma_GLM,Additional Living Expense
+4104,Additional Living Expense,13200.11728,7020.9652858141535,Gamma_GLM,Additional Living Expense
+4285,Additional Living Expense,4266.243992,2581.3715795136277,Gamma_GLM,Additional Living Expense
+4552,Additional Living Expense,17558.70717,8186.225460561307,Gamma_GLM,Additional Living Expense
+4916,Additional Living Expense,17806.53429,10592.446041063955,Gamma_GLM,Additional Living Expense
+4920,Additional Living Expense,2544.007998,4792.941811222125,Gamma_GLM,Additional Living Expense
+4930,Additional Living Expense,2501.467645,3366.96440941099,Gamma_GLM,Additional Living Expense
+5143,Additional Living Expense,1470.287093,3240.2054160616917,Gamma_GLM,Additional Living Expense
+5207,Additional Living Expense,1973.018205,3127.0276048507703,Gamma_GLM,Additional Living Expense
+5315,Additional Living Expense,4821.5807,6283.353168962423,Gamma_GLM,Additional Living Expense
+5570,Additional Living Expense,12897.69198,5832.4235090131115,Gamma_GLM,Additional Living Expense
+5797,Additional Living Expense,5798.205327,7381.824464204062,Gamma_GLM,Additional Living Expense
+5853,Additional Living Expense,15557.47138,9149.72320734207,Gamma_GLM,Additional Living Expense
+5879,Additional Living Expense,1136.881153,3895.7582267684484,Gamma_GLM,Additional Living Expense
+5984,Additional Living Expense,5477.994177,2682.69095046217,Gamma_GLM,Additional Living Expense
+6014,Additional Living Expense,5681.332278,4404.101831621311,Gamma_GLM,Additional Living Expense
+6179,Additional Living Expense,1514.799512,2486.4318183729765,Gamma_GLM,Additional Living Expense
+6211,Additional Living Expense,1382.716963,3286.132787496345,Gamma_GLM,Additional Living Expense
+6418,Additional Living Expense,10069.25028,7062.302419721561,Gamma_GLM,Additional Living Expense
+6430,Additional Living Expense,7604.580653,7312.373646767688,Gamma_GLM,Additional Living Expense
+6446,Additional Living Expense,5870.119263,10314.330875438869,Gamma_GLM,Additional Living Expense
+6552,Additional Living Expense,3430.297622,3953.8752064796613,Gamma_GLM,Additional Living Expense
+6555,Additional Living Expense,2052.203176,3591.9441111466504,Gamma_GLM,Additional Living Expense
+6703,Additional Living Expense,1799.592191,4121.319119444031,Gamma_GLM,Additional Living Expense
+6737,Additional Living Expense,1203.857409,2437.6695604765514,Gamma_GLM,Additional Living Expense
+6830,Additional Living Expense,4630.400175,5770.658151351553,Gamma_GLM,Additional Living Expense
+6846,Additional Living Expense,3900.755144,8498.95480408825,Gamma_GLM,Additional Living Expense
+7105,Additional Living Expense,2738.446983,4724.610114050899,Gamma_GLM,Additional Living Expense
+7156,Additional Living Expense,4398.3341915,3817.48682640577,Gamma_GLM,Additional Living Expense
+7552,Additional Living Expense,23498.52881,6105.967652611464,Gamma_GLM,Additional Living Expense
+7563,Additional Living Expense,5453.045073,8434.391239567727,Gamma_GLM,Additional Living Expense
+8141,Additional Living Expense,1287.079618,2238.8635487384836,Gamma_GLM,Additional Living Expense
+8150,Additional Living Expense,23564.405975,7379.076915310794,Gamma_GLM,Additional Living Expense
+8289,Additional Living Expense,5563.273698,4871.605402629968,Gamma_GLM,Additional Living Expense
+8328,Additional Living Expense,11110.61883,10446.173793158077,Gamma_GLM,Additional Living Expense
+8357,Additional Living Expense,2201.814416,4523.203732787471,Gamma_GLM,Additional Living Expense
+8410,Additional Living Expense,1551.313528,3485.193511600504,Gamma_GLM,Additional Living Expense
+8420,Additional Living Expense,785.5331992,3240.7406131622884,Gamma_GLM,Additional Living Expense
+8679,Additional Living Expense,6658.955531,7551.179819994135,Gamma_GLM,Additional Living Expense
+8689,Additional Living Expense,2154.864793,2682.5752170682667,Gamma_GLM,Additional Living Expense
+8766,Additional Living Expense,4331.057868,6837.3813596266955,Gamma_GLM,Additional Living Expense
+9007,Additional Living Expense,827.0867646,2401.045442404641,Gamma_GLM,Additional Living Expense
+9028,Additional Living Expense,1713.491559,4770.425280464435,Gamma_GLM,Additional Living Expense
+9084,Additional Living Expense,4516.83585,2886.310699076103,Gamma_GLM,Additional Living Expense
+9173,Additional Living Expense,2024.981587,4358.772437767511,Gamma_GLM,Additional Living Expense
+9350,Additional Living Expense,5096.265278,6281.533692339852,Gamma_GLM,Additional Living Expense
+9428,Additional Living Expense,2613.010924,2296.0801791657173,Gamma_GLM,Additional Living Expense
+9439,Additional Living Expense,6058.007218,7133.021257167493,Gamma_GLM,Additional Living Expense
+9593,Additional Living Expense,17768.25696,10170.345988887928,Gamma_GLM,Additional Living Expense
+9666,Additional Living Expense,2145.3844,3571.872838613263,Gamma_GLM,Additional Living Expense
+9768,Additional Living Expense,1399.122753,2986.696608238472,Gamma_GLM,Additional Living Expense
+9811,Additional Living Expense,4344.153812,2691.931491393418,Gamma_GLM,Additional Living Expense
+9854,Additional Living Expense,5419.7414,5584.531660290356,Gamma_GLM,Additional Living Expense
+9891,Additional Living Expense,5601.027581,2479.1608272336707,Gamma_GLM,Additional Living Expense
+9914,Additional Living Expense,14884.20808,10735.00478565042,Gamma_GLM,Additional Living Expense
+9957,Additional Living Expense,6180.601882,3852.215774082817,Gamma_GLM,Additional Living Expense
+576,Guest Medical,31035.27731,37047.25572614101,Gamma_GLM,Guest Medical
+802,Guest Medical,3988.743934,9258.406081555277,Gamma_GLM,Guest Medical
+1000,Guest Medical,23274.7512,14309.074084176922,Gamma_GLM,Guest Medical
+1004,Guest Medical,5399.482445,11521.106101674262,Gamma_GLM,Guest Medical
+1027,Guest Medical,27387.61778,17507.766605170396,Gamma_GLM,Guest Medical
+1083,Guest Medical,5906.174455,17315.661363281517,Gamma_GLM,Guest Medical
+1278,Guest Medical,6919.420012,16603.327005855095,Gamma_GLM,Guest Medical
+1895,Guest Medical,25084.83731,25806.843703672774,Gamma_GLM,Guest Medical
+1917,Guest Medical,13220.85555,22374.692899603906,Gamma_GLM,Guest Medical
+1955,Guest Medical,1120.729444,6198.495056015567,Gamma_GLM,Guest Medical
+2195,Guest Medical,59593.96708,17786.000456927348,Gamma_GLM,Guest Medical
+2696,Guest Medical,11389.81189,7711.801547689887,Gamma_GLM,Guest Medical
+2709,Guest Medical,17327.33629,12579.765842041166,Gamma_GLM,Guest Medical
+2861,Guest Medical,1533.903494,28120.947654214215,Gamma_GLM,Guest Medical
+3012,Guest Medical,98833.34325,40994.50894240854,Gamma_GLM,Guest Medical
+3114,Guest Medical,11444.59546,18246.379804455162,Gamma_GLM,Guest Medical
+3154,Guest Medical,7061.880962,14047.866562718216,Gamma_GLM,Guest Medical
+3344,Guest Medical,26845.38816,33251.81936687708,Gamma_GLM,Guest Medical
+3660,Guest Medical,3540.44118,10456.050897787629,Gamma_GLM,Guest Medical
+3666,Guest Medical,7387.973436,13791.9156229642,Gamma_GLM,Guest Medical
+3689,Guest Medical,9693.660453,20133.35956681831,Gamma_GLM,Guest Medical
+3726,Guest Medical,5999.257142,9875.383032556156,Gamma_GLM,Guest Medical
+3754,Guest Medical,2478.241365,9928.323516425737,Gamma_GLM,Guest Medical
+4046,Guest Medical,8333.051919,7338.922813368652,Gamma_GLM,Guest Medical
+4577,Guest Medical,2525.279002,15433.065521655788,Gamma_GLM,Guest Medical
+4970,Guest Medical,14346.49797,11417.080934443364,Gamma_GLM,Guest Medical
+5167,Guest Medical,55215.92933,14626.109035514944,Gamma_GLM,Guest Medical
+5205,Guest Medical,3053.181913,15569.779704596114,Gamma_GLM,Guest Medical
+5612,Guest Medical,25180.16848,19738.874705223203,Gamma_GLM,Guest Medical
+5926,Guest Medical,11306.80932,21744.65282906489,Gamma_GLM,Guest Medical
+6093,Guest Medical,7276.084284,16147.651985081708,Gamma_GLM,Guest Medical
+6428,Guest Medical,5069.527186,11320.47670332005,Gamma_GLM,Guest Medical
+6507,Guest Medical,115617.2631,42585.219364902,Gamma_GLM,Guest Medical
+6668,Guest Medical,29613.81293,16759.53598384799,Gamma_GLM,Guest Medical
+6703,Guest Medical,7162.167113,11445.960326424032,Gamma_GLM,Guest Medical
+6881,Guest Medical,9696.333676,9690.254342957458,Gamma_GLM,Guest Medical
+7058,Guest Medical,16915.7101,7225.069040856596,Gamma_GLM,Guest Medical
+7918,Guest Medical,10035.62013,9807.48780145604,Gamma_GLM,Guest Medical
+7957,Guest Medical,25453.10813,19027.370752186547,Gamma_GLM,Guest Medical
+8064,Guest Medical,16206.8769,32310.554441242035,Gamma_GLM,Guest Medical
+8185,Guest Medical,38083.3469,10666.907850216543,Gamma_GLM,Guest Medical
+8530,Guest Medical,16207.31561,11622.457073341482,Gamma_GLM,Guest Medical
+8771,Guest Medical,43307.01968,29969.094272278086,Gamma_GLM,Guest Medical
+8862,Guest Medical,7268.55337,10215.533989544263,Gamma_GLM,Guest Medical
+9371,Guest Medical,5005.335771,7934.517784750848,Gamma_GLM,Guest Medical
+9492,Guest Medical,4941.66591,16605.04025304067,Gamma_GLM,Guest Medical
+29,Liability,6943.265254,4302.954771365259,Gamma_GLM,Liability
+969,Liability,24145.37639,4577.780603812622,Gamma_GLM,Liability
+1071,Liability,35393.30883,9284.20739090288,Gamma_GLM,Liability
+1258,Liability,42915.49447,11076.157403221838,Gamma_GLM,Liability
+1650,Liability,8725.739265,8689.011056571595,Gamma_GLM,Liability
+2175,Liability,5328.924219,13898.141824571476,Gamma_GLM,Liability
+3515,Liability,21448.04273,3645.1167528091246,Gamma_GLM,Liability
+4331,Liability,9350.819888,9598.006903932415,Gamma_GLM,Liability
+5502,Liability,3191.171403,4089.801676045732,Gamma_GLM,Liability
+5780,Liability,10332.45134,8523.0734723401,Gamma_GLM,Liability
+6241,Liability,15730.0756,8164.640095060303,Gamma_GLM,Liability
+7487,Liability,6871.696005,8179.709445796042,Gamma_GLM,Liability
+8088,Liability,3729.848888,5720.797420204706,Gamma_GLM,Liability
+9115,Liability,21316.9935,3218.0063946154296,Gamma_GLM,Liability
+9251,Liability,352.2246586,7078.020941000406,Gamma_GLM,Liability
+9613,Liability,4497.119901,4092.3890263725607,Gamma_GLM,Liability
+9729,Liability,4302.213127,10109.606904845969,Gamma_GLM,Liability
+27,Personal Property,2106.469682,1011.2370808995099,Gamma_GLM,Personal Property
+66,Personal Property,339.6802425,674.610677940758,Gamma_GLM,Personal Property
+101,Personal Property,953.0025459,1114.3403072802193,Gamma_GLM,Personal Property
+253,Personal Property,1616.626821,1150.0741060195594,Gamma_GLM,Personal Property
+267,Personal Property,1002.384078,1094.1172595509147,Gamma_GLM,Personal Property
+363,Personal Property,479.6960067,667.5437384973378,Gamma_GLM,Personal Property
+373,Personal Property,973.8031,1110.0160194196558,Gamma_GLM,Personal Property
+382,Personal Property,280.7149732,1320.6425511087662,Gamma_GLM,Personal Property
+405,Personal Property,2381.407499,1728.8382528440175,Gamma_GLM,Personal Property
+489,Personal Property,927.6022554,517.9268485501682,Gamma_GLM,Personal Property
+504,Personal Property,4553.571268,2154.4967091800086,Gamma_GLM,Personal Property
+552,Personal Property,1337.452952,1232.6372434669986,Gamma_GLM,Personal Property
+654,Personal Property,233.3975002,1075.1162724252301,Gamma_GLM,Personal Property
+696,Personal Property,814.6689582,1085.7573849998564,Gamma_GLM,Personal Property
+721,Personal Property,462.3573546,1616.7103162799922,Gamma_GLM,Personal Property
+723,Personal Property,1243.800671,774.587598917839,Gamma_GLM,Personal Property
+770,Personal Property,1465.674786,1008.0997016046205,Gamma_GLM,Personal Property
+808,Personal Property,3591.823843,2440.0631151303087,Gamma_GLM,Personal Property
+827,Personal Property,750.6158098,931.3597267075118,Gamma_GLM,Personal Property
+835,Personal Property,411.6704697,2522.1050474733815,Gamma_GLM,Personal Property
+930,Personal Property,639.0480358,765.4552106387953,Gamma_GLM,Personal Property
+939,Personal Property,1151.90819,941.5840874325904,Gamma_GLM,Personal Property
+953,Personal Property,2646.843038,1734.6509895374872,Gamma_GLM,Personal Property
+969,Personal Property,2805.9654600000003,1510.7152649782083,Gamma_GLM,Personal Property
+1005,Personal Property,750.2778451,941.6806042050544,Gamma_GLM,Personal Property
+1007,Personal Property,382.8509324,565.6978121286841,Gamma_GLM,Personal Property
+1051,Personal Property,1866.594857,937.5666334943993,Gamma_GLM,Personal Property
+1061,Personal Property,541.3421727,805.388006936182,Gamma_GLM,Personal Property
+1089,Personal Property,929.2865824,1411.4763843658702,Gamma_GLM,Personal Property
+1128,Personal Property,711.3503534,942.6167809743265,Gamma_GLM,Personal Property
+1164,Personal Property,934.8862427,1671.1157377117815,Gamma_GLM,Personal Property
+1258,Personal Property,3062.950672,1886.3007424660875,Gamma_GLM,Personal Property
+1374,Personal Property,1396.642312,1564.797299586323,Gamma_GLM,Personal Property
+1454,Personal Property,700.8518067,956.8842910481633,Gamma_GLM,Personal Property
+1551,Personal Property,729.6346595,1120.0616033918607,Gamma_GLM,Personal Property
+1562,Personal Property,242.2443743,968.4218879018881,Gamma_GLM,Personal Property
+1670,Personal Property,958.2432834,1407.7996613796242,Gamma_GLM,Personal Property
+1682,Personal Property,3122.1331735999997,993.6354564722443,Gamma_GLM,Personal Property
+1892,Personal Property,535.6894644,517.4910813514158,Gamma_GLM,Personal Property
+1896,Personal Property,258.3218122,1355.2786129244632,Gamma_GLM,Personal Property
+1955,Personal Property,330.7965708,517.8751129821828,Gamma_GLM,Personal Property
+1988,Personal Property,955.4689509,801.8893185609535,Gamma_GLM,Personal Property
+1989,Personal Property,1741.188561,994.4332962960815,Gamma_GLM,Personal Property
+2128,Personal Property,2648.332402,1693.9257058444143,Gamma_GLM,Personal Property
+2140,Personal Property,260.0214223,667.0032757408231,Gamma_GLM,Personal Property
+2193,Personal Property,258.8804548,770.1052090706053,Gamma_GLM,Personal Property
+2247,Personal Property,489.5919408,527.7334465753702,Gamma_GLM,Personal Property
+2300,Personal Property,468.6848698,888.9572732720089,Gamma_GLM,Personal Property
+2306,Personal Property,583.6233231,1023.7306997479899,Gamma_GLM,Personal Property
+2396,Personal Property,933.9288362,1470.0931718792694,Gamma_GLM,Personal Property
+2455,Personal Property,340.3578247,551.6888742450681,Gamma_GLM,Personal Property
+2620,Personal Property,559.3501748,545.789493686557,Gamma_GLM,Personal Property
+2631,Personal Property,886.4495866,904.2718400671149,Gamma_GLM,Personal Property
+2657,Personal Property,2628.37256,1742.4979070767429,Gamma_GLM,Personal Property
+2658,Personal Property,1362.248298,676.1248603349144,Gamma_GLM,Personal Property
+2752,Personal Property,983.3163043,1329.8724473137645,Gamma_GLM,Personal Property
+2802,Personal Property,1476.031654,1242.8396860720768,Gamma_GLM,Personal Property
+2891,Personal Property,1666.372634,671.5076499479729,Gamma_GLM,Personal Property
+2916,Personal Property,1149.285809,675.1093331897682,Gamma_GLM,Personal Property
+2921,Personal Property,3376.7715230000003,1766.846491354233,Gamma_GLM,Personal Property
+2941,Personal Property,183.1598075,896.3648418916704,Gamma_GLM,Personal Property
+2957,Personal Property,2150.116954,1167.7974172100178,Gamma_GLM,Personal Property
+3013,Personal Property,1039.151848,1346.509990101843,Gamma_GLM,Personal Property
+3066,Personal Property,450.8662514,629.0628816969001,Gamma_GLM,Personal Property
+3078,Personal Property,784.0562907,672.6024420627897,Gamma_GLM,Personal Property
+3145,Personal Property,1756.501082,730.5757846752239,Gamma_GLM,Personal Property
+3174,Personal Property,2108.467153,1220.595446063085,Gamma_GLM,Personal Property
+3276,Personal Property,202.4358688,738.9148979912263,Gamma_GLM,Personal Property
+3326,Personal Property,1343.228863,1114.4971711366543,Gamma_GLM,Personal Property
+3385,Personal Property,674.3398133,833.797542253131,Gamma_GLM,Personal Property
+3386,Personal Property,1632.308511,1745.2023574803568,Gamma_GLM,Personal Property
+3389,Personal Property,506.944431,1407.001204551217,Gamma_GLM,Personal Property
+3472,Personal Property,309.5067263,779.9413423439909,Gamma_GLM,Personal Property
+3509,Personal Property,407.5069831,665.880146812088,Gamma_GLM,Personal Property
+3571,Personal Property,386.5890234,1147.1558645647872,Gamma_GLM,Personal Property
+3609,Personal Property,492.2646306,667.8916102576492,Gamma_GLM,Personal Property
+3706,Personal Property,1511.539965,1462.6356819903176,Gamma_GLM,Personal Property
+3750,Personal Property,360.2940766,551.4611170849109,Gamma_GLM,Personal Property
+3890,Personal Property,160.4948658,562.7068217283705,Gamma_GLM,Personal Property
+3899,Personal Property,2960.084035,2586.0289480288684,Gamma_GLM,Personal Property
+3925,Personal Property,4876.750213,2649.303676450324,Gamma_GLM,Personal Property
+3961,Personal Property,626.5765935,1206.9995997727451,Gamma_GLM,Personal Property
+4046,Personal Property,337.973077,629.9835551113879,Gamma_GLM,Personal Property
+4052,Personal Property,514.5690569,939.6302186091174,Gamma_GLM,Personal Property
+4230,Personal Property,1628.164372,1149.8679128362953,Gamma_GLM,Personal Property
+4272,Personal Property,152.2858242,1014.8135580398675,Gamma_GLM,Personal Property
+4404,Personal Property,1998.5344043,1647.3169006849869,Gamma_GLM,Personal Property
+4448,Personal Property,1037.115418,779.8143928621593,Gamma_GLM,Personal Property
+4466,Personal Property,644.4727709,666.343088016117,Gamma_GLM,Personal Property
+4516,Personal Property,702.1645006,565.7199684780994,Gamma_GLM,Personal Property
+4545,Personal Property,577.6277568,949.4514010593502,Gamma_GLM,Personal Property
+4558,Personal Property,501.5985853,942.5994323170121,Gamma_GLM,Personal Property
+4559,Personal Property,270.239351,557.7645746292579,Gamma_GLM,Personal Property
+4569,Personal Property,976.8286148,1233.009931826582,Gamma_GLM,Personal Property
+4689,Personal Property,740.2428837,1340.5443900318658,Gamma_GLM,Personal Property
+4729,Personal Property,1580.384414,1720.1561639940244,Gamma_GLM,Personal Property
+4748,Personal Property,523.70407,555.081074312523,Gamma_GLM,Personal Property
+4787,Personal Property,30.99901299,566.4234584557078,Gamma_GLM,Personal Property
+4820,Personal Property,1577.937832,1206.696728193426,Gamma_GLM,Personal Property
+4874,Personal Property,143.3379534,2007.8027024018456,Gamma_GLM,Personal Property
+4892,Personal Property,494.4721091,775.3648048942104,Gamma_GLM,Personal Property
+4897,Personal Property,1461.870152,946.1275991435241,Gamma_GLM,Personal Property
+4980,Personal Property,278.121419,1040.4083117546904,Gamma_GLM,Personal Property
+5098,Personal Property,168.5291745,561.2251173881972,Gamma_GLM,Personal Property
+5151,Personal Property,300.3518987,555.387608309511,Gamma_GLM,Personal Property
+5172,Personal Property,763.0145843,678.5182307915412,Gamma_GLM,Personal Property
+5308,Personal Property,444.4983466,1025.8904429502934,Gamma_GLM,Personal Property
+5312,Personal Property,305.9161365,556.2703864812885,Gamma_GLM,Personal Property
+5327,Personal Property,374.2450823,561.7069436852343,Gamma_GLM,Personal Property
+5333,Personal Property,1731.057464,1428.7872793514393,Gamma_GLM,Personal Property
+5476,Personal Property,192.4801232,567.1925870873852,Gamma_GLM,Personal Property
+5501,Personal Property,1063.228028,1735.6496647360912,Gamma_GLM,Personal Property
+5564,Personal Property,1057.501946,662.0808497607641,Gamma_GLM,Personal Property
+5583,Personal Property,447.2446655,1694.139841567953,Gamma_GLM,Personal Property
+5612,Personal Property,2582.296162,1472.481082623686,Gamma_GLM,Personal Property
+5616,Personal Property,514.6495581,675.987745353363,Gamma_GLM,Personal Property
+5678,Personal Property,693.382214,2136.117374856837,Gamma_GLM,Personal Property
+5797,Personal Property,620.0802286,1408.7476809710433,Gamma_GLM,Personal Property
+5805,Personal Property,1181.761669,794.583617272766,Gamma_GLM,Personal Property
+5824,Personal Property,375.503785,832.5035808587971,Gamma_GLM,Personal Property
+5834,Personal Property,3583.811819,2496.595075960413,Gamma_GLM,Personal Property
+5849,Personal Property,2675.572039,1209.0606216456797,Gamma_GLM,Personal Property
+5863,Personal Property,1228.508847,1149.4722943145662,Gamma_GLM,Personal Property
+5925,Personal Property,841.8075144,675.0470999383853,Gamma_GLM,Personal Property
+5984,Personal Property,172.2955897,527.0698154851967,Gamma_GLM,Personal Property
+6003,Personal Property,1099.525862,629.9736903277386,Gamma_GLM,Personal Property
+6028,Personal Property,1374.47804,1142.2320315703835,Gamma_GLM,Personal Property
+6115,Personal Property,1618.4102242,1183.062325598634,Gamma_GLM,Personal Property
+6180,Personal Property,1790.848482,1079.918598132854,Gamma_GLM,Personal Property
+6283,Personal Property,925.8236478,772.2172881215535,Gamma_GLM,Personal Property
+6340,Personal Property,1932.185004,1026.208964248606,Gamma_GLM,Personal Property
+6346,Personal Property,1093.774833,666.9348058527584,Gamma_GLM,Personal Property
+6436,Personal Property,1428.464006,1701.3658006750914,Gamma_GLM,Personal Property
+6602,Personal Property,2168.166608,1084.9402222063552,Gamma_GLM,Personal Property
+6626,Personal Property,677.9280996,1214.005614336177,Gamma_GLM,Personal Property
+6695,Personal Property,593.2990724,546.4759548831106,Gamma_GLM,Personal Property
+6846,Personal Property,248.7783224,1802.01054984143,Gamma_GLM,Personal Property
+6950,Personal Property,895.3959862,554.6376003242426,Gamma_GLM,Personal Property
+6993,Personal Property,1091.084597,787.92746332073,Gamma_GLM,Personal Property
+7079,Personal Property,307.4119207,679.8871240074855,Gamma_GLM,Personal Property
+7106,Personal Property,4231.247712,1319.9274389791697,Gamma_GLM,Personal Property
+7148,Personal Property,826.9658273,666.6199052096486,Gamma_GLM,Personal Property
+7298,Personal Property,676.0605838,779.6981506670539,Gamma_GLM,Personal Property
+7330,Personal Property,1175.373492,790.0123522568299,Gamma_GLM,Personal Property
+7334,Personal Property,850.5458523,770.5371774203464,Gamma_GLM,Personal Property
+7348,Personal Property,394.0273818,546.8453167242513,Gamma_GLM,Personal Property
+7427,Personal Property,890.6198185,1021.5975181881879,Gamma_GLM,Personal Property
+7603,Personal Property,338.5169056,887.2540612479164,Gamma_GLM,Personal Property
+7627,Personal Property,696.576423,973.306497682092,Gamma_GLM,Personal Property
+7686,Personal Property,1345.694456,831.3132032862692,Gamma_GLM,Personal Property
+7693,Personal Property,187.4256225,789.369152934351,Gamma_GLM,Personal Property
+7708,Personal Property,561.5441187,632.7476645029382,Gamma_GLM,Personal Property
+7722,Personal Property,290.3548187,552.2798087916916,Gamma_GLM,Personal Property
+7755,Personal Property,362.479665,562.0824464389411,Gamma_GLM,Personal Property
+7771,Personal Property,278.0402275,943.6514648891235,Gamma_GLM,Personal Property
+7833,Personal Property,586.0901087,553.0091893850716,Gamma_GLM,Personal Property
+7851,Personal Property,387.0594742,557.9687247222928,Gamma_GLM,Personal Property
+7873,Personal Property,445.0629252,872.2549847446415,Gamma_GLM,Personal Property
+7920,Personal Property,978.6183248,770.0139978506543,Gamma_GLM,Personal Property
+7974,Personal Property,915.040193,1326.41879019736,Gamma_GLM,Personal Property
+8038,Personal Property,203.7003358,676.903863343482,Gamma_GLM,Personal Property
+8059,Personal Property,446.6343748,766.2307453488045,Gamma_GLM,Personal Property
+8099,Personal Property,1560.780697,1442.1386653141024,Gamma_GLM,Personal Property
+8242,Personal Property,640.1354246,552.9071931422576,Gamma_GLM,Personal Property
+8416,Personal Property,7883.090708,2180.274209246233,Gamma_GLM,Personal Property
+8444,Personal Property,628.7367799,526.236482152679,Gamma_GLM,Personal Property
+8460,Personal Property,1414.000182,1979.449607897082,Gamma_GLM,Personal Property
+8555,Personal Property,803.0302419,1012.5034741376575,Gamma_GLM,Personal Property
+8611,Personal Property,266.923782,675.0365187307976,Gamma_GLM,Personal Property
+8614,Personal Property,2778.604326,1752.4143659475278,Gamma_GLM,Personal Property
+8801,Personal Property,1275.413681,954.4782514289025,Gamma_GLM,Personal Property
+8856,Personal Property,1317.2092071000002,965.5084029920401,Gamma_GLM,Personal Property
+9042,Personal Property,491.6662263,516.7717236464265,Gamma_GLM,Personal Property
+9063,Personal Property,306.6435127,1403.2373222713181,Gamma_GLM,Personal Property
+9198,Personal Property,483.5199206,678.7436302411375,Gamma_GLM,Personal Property
+9243,Personal Property,232.9462072,794.5416169630735,Gamma_GLM,Personal Property
+9256,Personal Property,640.9953815,1435.269121381334,Gamma_GLM,Personal Property
+9461,Personal Property,1948.444543,1351.453651704617,Gamma_GLM,Personal Property
+9466,Personal Property,952.3726024,990.1613610969658,Gamma_GLM,Personal Property
+9470,Personal Property,1577.438452,1633.9074791963226,Gamma_GLM,Personal Property
+9780,Personal Property,3438.075532,2072.040384180446,Gamma_GLM,Personal Property
+9809,Personal Property,869.6624586,775.5972992954065,Gamma_GLM,Personal Property
+9832,Personal Property,1131.034744,952.3431503126416,Gamma_GLM,Personal Property
+9876,Personal Property,280.791478,566.439694424705,Gamma_GLM,Personal Property
+9887,Personal Property,1950.64478,1618.224309906729,Gamma_GLM,Personal Property
+9934,Personal Property,1159.5454,956.0775038619153,Gamma_GLM,Personal Property

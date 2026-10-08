@@ -1,0 +1,4 @@
+Business_Type,Primary_Indication,Governance_Point
+New Business,Predictive model + tier base rate,No ABG-specific prior experience weight
+Renewal — limited experience,Model + partial credibility on ABG experience,Prevent excessive response to sparse experience
+Renewal — credible experience,Model + greater credibility on ABG experience,Increase experience weight only as credibility develops

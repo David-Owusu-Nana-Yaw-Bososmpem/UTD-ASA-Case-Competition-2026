@@ -1,0 +1,5 @@
+Assumption,Value,Status
+Fixed expense per coverage,0.0,Illustrative
+Variable expense ratio,0.2,Illustrative
+Profit/contingency ratio,0.1,Illustrative
+Implied expected-loss ratio,0.7000000000000001,Derived

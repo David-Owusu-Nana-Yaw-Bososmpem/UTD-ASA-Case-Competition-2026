@@ -1,0 +1,5 @@
+coverage,exposures,total_claims,multi_claim_exposures,max_claims_per_exposure,mean_claim_count,claim_frequency_count_basis
+Additional Living Expense,7999,427,11,2,0.05338167270908863,0.05338167270908863
+Guest Medical,7999,187,4,2,0.023377922240280034,0.023377922240280034
+Liability,7999,67,0,1,0.008376047005875735,0.008376047005875735
+Personal Property,7999,787,41,3,0.09838729841230154,0.09838729841230154
